@@ -1,4 +1,4 @@
-Фреймворк для тестирования на kotlin c использованием Cucumber и Selenide
+Фреймворк для тестирования на Kotlin c использованием Cucumber ,Selenide и Allure 2
 
 
 Запуск mvn clean test
